@@ -46,6 +46,6 @@
         <a href='cus_insert.php'><button> New Member</button></a>
         <br>
         <br>
-        <a href='mainmenu.php'><button>Home</button></a>
+        <a href='index.html'><button>Home</button></a>
 </body>
 </html>

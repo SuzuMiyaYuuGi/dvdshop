@@ -47,6 +47,6 @@
         <a href='act_insert.php'><button> Insert Actor</button></a>
         <br>
         <br>
-        <a href='mainmenu.php'><button>Home</button></a>
+        <a href='index.html'><button>Home</button></a>
 </body>
 </html>
